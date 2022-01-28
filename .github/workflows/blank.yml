@@ -15,7 +15,7 @@ jobs:
           base: header, activity, repositories
           token: ${{ secrets.METRICS_TOKEN }}
           config_display: large
-          config_padding: 0, 8 + 2%
+          config_padding: 0, 10 + 2%
           config_timezone: Asia/Bishkek
           plugin_habits: yes
           plugin_habits_facts: yes     
