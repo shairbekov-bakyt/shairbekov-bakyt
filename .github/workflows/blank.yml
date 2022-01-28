@@ -12,6 +12,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          base: header, activity, repositories
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
+          config_display: large
+          config_padding: 0, 8 + 2%
+          config_timezone: Asia/Bishkek
+          plugin_habits: yes
+          plugin_habits_facts: yes     
+          plugin_habits_charts: yes     
+          plugin_habits_trim: yes 
+          plugin_followup: yes
+          plugin_followup_sections: repositories, use
