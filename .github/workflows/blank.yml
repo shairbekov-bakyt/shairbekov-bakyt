@@ -17,7 +17,7 @@ jobs:
           config_display: large
           config_timezone: Asia/Bishkek
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year    
+          plugin_isocalendar_duration: half-year    
           plugin_languages: yes
           plugin_followup: yes
           plugin_followup_sections: repositories, use
