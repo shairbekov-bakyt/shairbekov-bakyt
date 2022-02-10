@@ -15,7 +15,6 @@ jobs:
           base: header, activity, repositories
           token: ${{ secrets.METRICS_TOKEN }}
           commits_authoring: ShairbekovBakyt
-          template: repository
           config_display: large
           config_timezone: Asia/Bishkek
           plugin_habits : yes
