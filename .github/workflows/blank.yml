@@ -14,13 +14,16 @@ jobs:
         with:
           base: header, activity, repositories
           token: ${{ secrets.METRICS_TOKEN }}
+          commits_authoring: ShairbekovBakyt
           config_display: large
+          config_padding: 0, 8 + 2%
           config_timezone: Asia/Bishkek
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year    
-          plugin_languages: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes     
+          plugin_habits_charts: yes     
+          plugin_habits_trim: yes 
           plugin_followup: yes
-          plugin_followup_sections: repositories, use
+          plugin_followup_sections: repositories, user
           plugin_achievements: yes
           plugin_achievements_only: >-
               polyglot, stargazer, sponsor, deployer, Contributor, maintainer, developer,
