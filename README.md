@@ -11,7 +11,7 @@
 </td>
     <td>
 
-  <img align="right" width="440" alt="" src="/metrics.followup.svg">
+  <img align="right" width="440" alt="" src="/activity.svg">
 
 </td>
 </table> 
@@ -21,6 +21,6 @@
   </tr>
   
  <td>
-<img align='center' width="" src="/achievements.svg" alt="Metrics" >
+<img align='center' width="" src="/languages.svg" alt="Metrics" >
 </td>
 </table>
