@@ -17,8 +17,7 @@ jobs:
           commits_authoring: ShairbekovBakyt
           config_display: large
           config_timezone: Asia/Bishkek
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: classic
+          plugin_habits : yes
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_achievements: yes
