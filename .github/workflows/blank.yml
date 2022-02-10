@@ -19,6 +19,7 @@ jobs:
           config_display: large
           config_timezone: Asia/Bishkek
           plugin_habits : yes
+          plugin_habits_from : 500
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_achievements: yes
