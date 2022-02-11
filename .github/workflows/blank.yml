@@ -18,7 +18,6 @@ jobs:
           base: ""
           config_display: large
           plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
           plugin_achievements: yes
           plugin_languages_aliases: javascript:JS typescript:TS
           plugin_achievements_display: compact
