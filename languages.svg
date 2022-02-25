@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="635.48168533354" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="635.48168533354" y="0" width="99.96132936897843" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="735.4430147025184" y="0" width="88.16952672868314" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="823.6125414312015" y="0" width="39.818015384146435" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="863.430556815348" y="0" width="30.053622084593634" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="893.4841788999416" y="0" width="20.910493521076837" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="914.3946724210184" y="0" width="3.010273553465583" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="917.404945974484" y="0" width="2.5950540255159766" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="635.4285004105229" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="635.4285004105229" y="0" width="99.98222832482675" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="735.4107287353496" y="0" width="88.16214761831735" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="823.5728763536669" y="0" width="39.84660059275514" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="863.419476946422" y="0" width="30.0669211235388" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="893.4863980699608" y="0" width="20.908743473807444" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="914.3951415437683" y="0" width="3.010021616752226" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="917.4051631605205" y="0" width="2.5948368394793726" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -135,7 +135,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.66666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -160,12 +160,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 806k out of 85m users</span>
+                                    <span class="gh">ranked 770k out of 86m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">35</div>
+                                        <div class="value">36</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 35 public repositories</div>
+                                <div class="text">Published 36 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -336,7 +336,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 777k out of 85m users</span>
+                                    <span class="gh">ranked 778k out of 86m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
