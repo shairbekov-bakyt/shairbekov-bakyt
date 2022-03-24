@@ -14,7 +14,7 @@
   <img align="right" width="440" alt="" src="/activity.svg">
 
 </td>
-  <td colspan='2'>
+  <td cellpadding='2'>
 <img align='center' width="" src="/languages.svg" alt="Metrics" >
 </td>
 <!-- </table> 
