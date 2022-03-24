@@ -14,10 +14,7 @@
   <img align="right" width="440" alt="" src="/activity.svg">
 
 </td>
-  <td cellpadding='2'>
-<img align='center' width="" src="/languages.svg" alt="Metrics" >
-</td>
-<!-- </table> 
+</table> 
 <table style="width:100%">
   <tr>
     <th>Programming skills</th>
@@ -25,5 +22,5 @@
   
  <td>
 <img align='center' width="" src="/languages.svg" alt="Metrics" >
-</td> -->
+</td>
 </table>
