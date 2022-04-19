@@ -14,7 +14,7 @@
   <img align="right" width="440" alt="" src="/activity.svg">
 
 </td>
-</table cellspacing='0'> 
+</table> 
 <table style="width:100%">
   
  <td>
