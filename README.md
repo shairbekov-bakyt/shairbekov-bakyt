@@ -1,6 +1,6 @@
 <style>
   .table2{
-    margin: 0;
+    position: absolute
   }
   </style>
 <table>
