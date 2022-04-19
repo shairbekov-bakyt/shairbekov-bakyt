@@ -1,6 +1,7 @@
 <style>
   .table2{
-    position: absolute
+    position: absolute;
+    top: 0
   }
   </style>
 <table>
