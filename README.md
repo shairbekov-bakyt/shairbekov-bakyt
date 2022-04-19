@@ -16,9 +16,6 @@
 </td>
 </table> 
 <table style="width:100%">
-  <tr>
-    <th>Programming skills</th>
-  </tr>
   
  <td>
 <img align='center' width="" src="/languages.svg" alt="Metrics" >
