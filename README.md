@@ -14,11 +14,11 @@
   <img align="right" width="440" alt="" src="/activity.svg">
 
 </td>
-  <td colspan='2'>
-<img align='center' width="" src="/languages.svg" alt="Metrics" >
-</td>
+  
 </table> 
 <table style="width:100%">
-  
- 
+
+ <td colspan='2'>
+<img align='center' width="" src="/languages.svg" alt="Metrics" >
+</td>
 </table>
