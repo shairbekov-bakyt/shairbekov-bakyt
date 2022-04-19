@@ -1,4 +1,8 @@
-
+<style>
+  .table2{
+    margin: 0;
+  }
+  </style>
 <table>
 
   <tr>
@@ -14,7 +18,7 @@
   <img align="right" width="440" alt="" src="/activity.svg">
 
 </td>
-</table> 
+</table class='table2'> 
 <table style="width:100%">
   
  <td>
