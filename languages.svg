@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="591.1028403776638" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="591.1028403776638" y="0" width="98.43412899351334" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="689.5369693711772" y="0" width="84.69655562351592" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="774.2335249946931" y="0" width="80.95667753770402" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="855.190202532397" y="0" width="40.326984165724866" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="895.5171866981219" y="0" width="19.199877145187777" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="914.7170638433097" y="0" width="2.7640133094749957" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="917.4810771527847" y="0" width="2.5189228472152645" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="591.1331827195082" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="591.1331827195082" y="0" width="98.42504797258111" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="689.5582306920893" y="0" width="84.68874195967423" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="774.2469726517636" y="0" width="80.94920889556901" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="855.1961815473326" y="0" width="40.323263807846075" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="895.5194453551787" y="0" width="19.19810586435221" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="914.717551219531" y="0" width="2.7637583159785635" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="917.4813095355095" y="0" width="2.5186904644905317" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -125,7 +125,7 @@
                                 <div class="text">Using 17 different programming languages</div>
                             </div>
                         </div>
-                        <div class="achievement b largeable-width-half">
+                        <div class="achievement a largeable-width-half">
                             <div class="icon">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
                                     <defs>
@@ -135,37 +135,37 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="149.83333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <g stroke="#7D6CFF">
+                                            <g stroke="#B59151">
                                                 <path d="M20 24l-3.397 3.398a.85.85 0 000 1.203L20.002 32M37.015 24l3.399 3.398a.85.85 0 010 1.203L37.014 32" stroke-linejoin="round"/>
                                                 <path d="M31.029 21.044L25.976 35.06"/>
                                             </g>
-                                            <path stroke="#B2A8FF" stroke-linejoin="round" d="M23.018 10h8.984M26 47h5M8 16h16m9 0h15.725M8 41h13"/>
-                                            <path d="M5.027 34.998c.673 2.157 1.726 4.396 2.81 6.02m43.38-19.095C50.7 19.921 49.866 17.796 48.79 16" stroke="#B2A8FF"/>
-                                            <path stroke="#7D6CFF" stroke-linejoin="round" d="M26 41h17"/>
-                                            <path d="M7.183 16C5.186 19.582 4 23.619 4 28M42.608 47.02c2.647-1.87 5.642-5.448 7.295-9.18C51.52 34.191 52.071 30.323 52 28" stroke="#7D6CFF"/>
-                                            <path stroke="#7D6CFF" stroke-linejoin="round" d="M7.226 16H28M13.343 47H21"/>
-                                            <path d="M13.337 47.01a24.364 24.364 0 006.19 3.45 24.527 24.527 0 007.217 1.505c2.145.108 4.672-.05 7.295-.738" stroke="#7D6CFF"/>
-                                            <path stroke="#7D6CFF" stroke-linejoin="round" d="M36 47h6.647M12 10h6M37 10h6.858"/>
-                                            <path d="M43.852 10c-4.003-3.667-9.984-6.054-16.047-6-2.367.021-4.658.347-6.81 1.045" stroke="#7D6CFF"/>
-                                            <path stroke="#B2A8FF" stroke-linejoin="round" d="M5.041 35h4.962M47 22h4.191"/>
+                                            <path stroke="#FFD576" stroke-linejoin="round" d="M23.018 10h8.984M26 47h5M8 16h16m9 0h15.725M8 41h13"/>
+                                            <path d="M5.027 34.998c.673 2.157 1.726 4.396 2.81 6.02m43.38-19.095C50.7 19.921 49.866 17.796 48.79 16" stroke="#FFD576"/>
+                                            <path stroke="#B59151" stroke-linejoin="round" d="M26 41h17"/>
+                                            <path d="M7.183 16C5.186 19.582 4 23.619 4 28M42.608 47.02c2.647-1.87 5.642-5.448 7.295-9.18C51.52 34.191 52.071 30.323 52 28" stroke="#B59151"/>
+                                            <path stroke="#B59151" stroke-linejoin="round" d="M7.226 16H28M13.343 47H21"/>
+                                            <path d="M13.337 47.01a24.364 24.364 0 006.19 3.45 24.527 24.527 0 007.217 1.505c2.145.108 4.672-.05 7.295-.738" stroke="#B59151"/>
+                                            <path stroke="#B59151" stroke-linejoin="round" d="M36 47h6.647M12 10h6M37 10h6.858"/>
+                                            <path d="M43.852 10c-4.003-3.667-9.984-6.054-16.047-6-2.367.021-4.658.347-6.81 1.045" stroke="#B59151"/>
+                                            <path stroke="#FFD576" stroke-linejoin="round" d="M5.041 35h4.962M47 22h4.191"/>
                                         </g>
                                     </svg>
                                 </svg>
                             </div>
                             <div class="info">
                                 <div class="title">
-                                    <span class="prefix">Great</span>
+                                    <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 478k out of 89m users</span>
+                                    <span class="gh">ranked 462k out of 89m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">49</div>
+                                        <div class="value">50</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 49 public repositories</div>
+                                <div class="text">Published 50 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
