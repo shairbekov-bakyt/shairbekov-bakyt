@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="591.3196924067429" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="591.3196924067429" y="0" width="97.96652578553709" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="689.28621819228" y="0" width="84.83518890105252" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="774.1214070933326" y="0" width="80.95096052291615" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="855.0723676162488" y="0" width="40.44654801406214" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="895.5189156303109" y="0" width="19.198521284437277" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="914.7174369147481" y="0" width="2.763818119832279" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="917.4812550345804" y="0" width="2.5187449654196543" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="591.3499122130693" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="591.3499122130693" y="0" width="97.95751846332364" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="689.3074306763929" y="0" width="84.82738891146073" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="774.1348195878537" y="0" width="80.9435176603764" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="855.07833724823" y="0" width="40.44282924290573" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="895.5211664911358" y="0" width="19.1967561175515" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="914.7179226086873" y="0" width="2.763564006499739" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="917.481486615187" y="0" width="2.518513384812961" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -135,7 +135,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.775 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.55 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -160,12 +160,12 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 448k out of 90m users</span>
+                                    <span class="gh">ranked 433k out of 90m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">51</div>
+                                        <div class="value">52</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 51 public repositories</div>
+                                <div class="text">Published 52 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -220,7 +220,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.819095477386934 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="30.37688442211055 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -248,10 +248,10 @@
                                     <span class="prefix"></span>
                                     Contributor
                                     <div class="value-wrapper">
-                                        <div class="value">38</div>
+                                        <div class="value">40</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 38 pull requests</div>
+                                <div class="text">Opened 40 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
