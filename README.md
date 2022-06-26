@@ -1,5 +1,5 @@
 
-<table>
+<!-- <table>
 
   <tr>
     <th>Personal Statistics</th>
@@ -21,4 +21,5 @@
  <td colspan='2'>
 <img align='center' width="" src="/languages.svg" alt="Metrics" >
 </td>
-</table>
+</table> -->
+<img align='center' width="" src="/github-metrics.svg" alt="Metrics" >
