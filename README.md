@@ -1,5 +1,5 @@
 
-<!-- <table>
+<!-- <atable>
 
   <tr>
     <th>Personal Statistics</th>
