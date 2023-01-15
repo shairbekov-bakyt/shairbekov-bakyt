@@ -372,7 +372,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 24.1 characters per line of code written</li>
+                        <li>Has approximately 26.6 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -475,18 +475,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 68.71403106697224%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">86%</span>
+                                <div class="bar" style="width: 37.808603054504694%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">47%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 0.8148714031066973%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.4483676614824156%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Lua</span>
-                                <div class="bar" style="width: 0.6518971224853577%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 0.35869412918593246%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -981,7 +981,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.88m out of 368m repositories</span>
+                                    <span class="gh">ranked 1.84m out of 368m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -1022,7 +1022,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.52m out of 368m repositories</span>
+                                    <span class="gh">ranked 2.53m out of 368m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
