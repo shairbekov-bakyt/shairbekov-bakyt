@@ -372,7 +372,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 25.1 characters per line of code written</li>
+                        <li>Has approximately 25.0 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -986,7 +986,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.94m out of 368m repositories</span>
+                                    <span class="gh">ranked 2.90m out of 368m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
