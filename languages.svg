@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="821.8452201948444" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="821.8452201948444" y="0" width="74.64474743898438" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="896.4899676338288" y="0" width="15.691824471484837" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="912.1817921053135" y="0" width="3.3288325738125777" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="915.5106246791262" y="0" width="1.9973504270792395" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="917.5079751062054" y="0" width="0.9868985253043354" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="918.4948736315098" y="0" width="0.8753848702464069" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="919.3702585017562" y="0" width="0.6297414982438014" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="821.7770686083575" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="821.7770686083575" y="0" width="74.7148485969535" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="896.491917205311" y="0" width="15.69052322557341" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="912.1824404308844" y="0" width="3.3285565300813738" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="915.5109969609658" y="0" width="1.9971847966210576" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="917.5081817575868" y="0" width="0.9868166866581423" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="918.494998444245" y="0" width="0.8753122788797749" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="919.3703107231248" y="0" width="0.6296892768751942" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -256,7 +256,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.608040201005025 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="37.38693467336683 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -284,10 +284,10 @@
                                     <span class="prefix"></span>
                                     Contributor
                                     <div class="value-wrapper">
-                                        <div class="value">48</div>
+                                        <div class="value">49</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 48 pull requests</div>
+                                <div class="text">Opened 49 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -531,7 +531,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.87m out of 374m repositories</span>
+                                    <span class="gh">ranked 2.94m out of 374m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
@@ -611,7 +611,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.52m out of 374m repositories</span>
+                                    <span class="gh">ranked 2.46m out of 374m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
