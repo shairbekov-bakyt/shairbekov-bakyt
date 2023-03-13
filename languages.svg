@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="816.2873666020952" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="816.2873666020952" y="0" width="74.96207776076618" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="891.2494443628614" y="0" width="15.58461020678772" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="906.834054569649" y="0" width="7.0987103696522285" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="913.9327649393013" y="0" width="3.564987830008998" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="917.4977527693103" y="0" width="1.0074046260261933" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="918.5051573953365" y="0" width="0.8694038101497304" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="919.3745612054862" y="0" width="0.6254387945138329" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="815.9995593317732" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="815.9995593317732" y="0" width="75.26002192561408" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="891.2595812573873" y="0" width="15.579115372117773" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="906.8386966295051" y="0" width="7.096207500518287" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="913.9349041300234" y="0" width="3.563730883671145" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="917.4986350136945" y="0" width="1.0070494344755347" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="918.50568444817" y="0" width="0.8690972750401057" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="919.3747817232102" y="0" width="0.6252182767898458" height="8" fill="#b07219"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -177,7 +177,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.666666666666664 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="46.5 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -202,12 +202,12 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.30m out of 110m users</span>
+                                    <span class="gh">ranked 1.37m out of 110m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">30</div>
+                                        <div class="value">29</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 30 public repositories</div>
+                                <div class="text">Published 29 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -256,7 +256,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="44.39698492462312 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="45.95477386934674 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -284,10 +284,10 @@
                                     <span class="prefix"></span>
                                     Contributor
                                     <div class="value-wrapper">
-                                        <div class="value">58</div>
+                                        <div class="value">60</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 58 pull requests</div>
+                                <div class="text">Opened 60 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -570,7 +570,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.13m out of 384m repositories</span>
+                                    <span class="gh">ranked 3.10m out of 384m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
