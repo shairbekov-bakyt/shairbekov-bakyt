@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="815.9271322896153" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="815.9271322896153" y="0" width="75.33499992934561" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="891.2621322189609" y="0" width="15.577732590432495" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="906.8398648093934" y="0" width="7.095577650521526" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="913.935442459915" y="0" width="3.5634145716290626" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="917.4988570315439" y="0" width="1.0069600500990217" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="918.505817081643" y="0" width="0.8690201351148951" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="919.3748372167579" y="0" width="0.6251627832421188" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="809.7026009309545" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="809.7026009309545" y="0" width="74.76028553279276" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="884.4628864637474" y="0" width="15.458893442708748" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="899.9217799064561" y="0" width="7.052211242831491" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="906.9739911492876" y="0" width="5.5330451232512345" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="912.5070362725388" y="0" width="3.5573495535313193" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="916.0643858260701" y="0" width="3.073223605192049" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="919.1376094312621" y="0" width="0.8623905687378695" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -57,27 +57,27 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        C++
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Java
+                        SCSS
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C++
                     </div>
                 </div>
             </section>
@@ -220,7 +220,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="61.53266331658291 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.311557788944725 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -248,10 +248,10 @@
                                     <span class="prefix"></span>
                                     Contributor
                                     <div class="value-wrapper">
-                                        <div class="value">80</div>
+                                        <div class="value">81</div>
                                     </div>
                                 </div>
-                                <div class="text">Opened 80 pull requests</div>
+                                <div class="text">Opened 81 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -534,7 +534,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.14m out of 387m repositories</span>
+                                    <span class="gh">ranked 3.09m out of 387m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
