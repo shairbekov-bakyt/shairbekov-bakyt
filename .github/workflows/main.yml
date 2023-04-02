@@ -28,3 +28,4 @@ jobs:
           plugin_achievements_display: compact
           plugin_leetcode: yes
           plugin_leetcode_sections: skills
+          plugin_leetcode_user: c0mrade312
