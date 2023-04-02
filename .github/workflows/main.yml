@@ -26,3 +26,4 @@ jobs:
           plugin_followup_sections: repositories, user
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_leetcode: yes
