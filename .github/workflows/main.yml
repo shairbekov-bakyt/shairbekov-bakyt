@@ -28,4 +28,4 @@ jobs:
           plugin_achievements_display: compact
           plugin_leetcode: yes
           plugin_leetcode_sections: skills, solved
-          plugin_leetcode_user: c0mrade312
+          plugin_leetcode_user: shairbekov-bakyt
