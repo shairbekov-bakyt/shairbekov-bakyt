@@ -510,9 +510,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.0990957045968353 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.0979284369114874 329"/>
                                     <text x="60" y="50" dominant-baseline="central">25</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2654</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2655</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -528,9 +528,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.9333333333333333 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0.9326718639262934 329"/>
                                     <text x="60" y="50" dominant-baseline="central">4</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1410</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1411</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -1056,7 +1056,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.05m out of 396m repositories</span>
+                                    <span class="gh">ranked 3.16m out of 396m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">2</div>
                                     </div>
