@@ -25,7 +25,7 @@
                     <rect mask="url(#languages-bar)" x="777.4671083557193" y="0" width="113.62190142282397" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="891.0890097785434" y="0" width="14.836040470439242" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="905.9250502489826" y="0" width="6.371840159687072" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="912.2968904086697" y="0" width="3.3995123828597085" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="912.2968904086697" y="0" width="3.3995123828597085" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="915.6964027915294" y="0" width="2.69983506840665" height="8" fill="#000080"/>
                     <rect mask="url(#languages-bar)" x="918.3962378599362" y="0" width="0.8687255924470093" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="919.2649634523831" y="0" width="0.7350365476169245" height="8" fill="#f34b7d"/>
@@ -57,7 +57,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -536,7 +536,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.79m out of 222m repositories</span>
+                                    <span class="gh">ranked 2.79m out of 193m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
