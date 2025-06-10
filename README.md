@@ -1,5 +1,4 @@
-
-<!-- <atable>
+<table>
 
   <tr>
     <th>Personal Statistics</th>
@@ -14,12 +13,13 @@
   <img align="right" width="440" alt="" src="/activity.svg">
 
 </td>
-  
 </table> 
 <table style="width:100%">
-
- <td colspan='2'>
+  <tr>
+    <th>Programming skills</th>
+  </tr>
+  
+ <td>
 <img align='center' width="" src="/languages.svg" alt="Metrics" >
 </td>
-</table> -->
-<img align='center' width="" src="/github-metrics.svg" alt="Metrics" >
+</table>
